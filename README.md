@@ -29,4 +29,7 @@ Each solution includes a clear explanation, code implementation, and time/space 
 ---
 
 ## 📂 Folder Structure
-
+/leetcode-solutions
+   /easy
+   /medium
+   /hard
