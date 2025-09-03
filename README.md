@@ -24,7 +24,7 @@ Each solution includes a clear explanation, code implementation, and time/space 
 ![Medium](https://img.shields.io/badge/Medium-50-yellow)
 ![Hard](https://img.shields.io/badge/Hard-20-red)
 ![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript-blue)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/leetcode-solutions)
+![Last Commit](https://img.shields.io/github/last-commit/alexmaxdout/leetcode-solutions)
 
 ---
 
