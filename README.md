@@ -1,36 +1,32 @@
-# alex-boilerplate-repo
-# 🚀 Project Name
+# 📘 LeetCode Solutions
 
-_A one-line tagline/mission statement for your project._
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)  
-![Build](https://img.shields.io/github/actions/workflow/status/USERNAME/REPO/ci.yml?branch=main)  
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)  
+A structured collection of my LeetCode solutions in Python and JavaScript, organized by difficulty and topic.  
+Each solution includes a clear explanation, code implementation, and time/space complexity analysis.
 
 ---
 
-## 📖 Overview
-Short description of the project:
-- What does it do?  
-- Why does it exist?  
-- Who is it for?  
-
-> Example: **NeuroVision** is a real-time multimodal AI assistant that processes speech, video, and text to answer complex queries with <250ms latency.
-
----
-
-## ✨ Features
-- ✅ Key feature #1  
-- ✅ Key feature #2  
-- ✅ Key feature #3  
+## 🚀 Features
+- ✅ 150+ problems solved (Easy / Medium / Hard)
+- 📂 Organized by **difficulty** and **category**
+- 📝 Each solution includes:
+  - Problem link
+  - Thought process / approach
+  - Optimized solution
+  - Complexity analysis
+- 🔄 Regular updates as I solve new problems
+- 🧪 Clean, well-documented code
 
 ---
 
-## 🏗️ Project Structure
-```plaintext
-.
-├── src/            # Main source code
-├── tests/          # Unit/integration tests
-├── docs/           # Documentation (FAQ, guides, etc.)
-├── .github/        # GitHub Actions / Issue templates
-└── README.md       # Project overview
+## 📊 Progress Tracking
+
+![Easy](https://img.shields.io/badge/Easy-80-green)
+![Medium](https://img.shields.io/badge/Medium-50-yellow)
+![Hard](https://img.shields.io/badge/Hard-20-red)
+![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript-blue)
+![Last Commit](https://img.shields.io/github/last-commit/your-username/leetcode-solutions)
+
+---
+
+## 📂 Folder Structure
+
