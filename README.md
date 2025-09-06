@@ -16,7 +16,13 @@ Each solution includes a clear explanation, code implementation, and time/space 
 - 🔄 Regular updates as I solve new problems
 - 🧪 Clean, well-documented code
 
----
+## 🏆 My Goals
+
+Solve 100+ LeetCode problems covering all major topics
+
+Improve algorithmic thinking and coding efficiency
+
+Prepare for technical interviews at top tech companies
 
 ## 📊 Progress Tracking
 
