@@ -33,9 +33,3 @@ Prepare for technical interviews at top tech companies
 ![Last Commit](https://img.shields.io/github/last-commit/alexmaxdout/leetcode-solutions)
 
 ---
-
-## 📂 Folder Structure
-/leetcode-solutions
-   /easy
-   /medium
-   /hard
